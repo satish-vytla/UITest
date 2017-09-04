@@ -1,0 +1,41 @@
+HTML -> hold the data -> tags
+
+CSS -> style the elements
+
+
+JS -> to alter or capture the events...
+
+Summary
+
+-> CSS Frameworks -> Bootstrap CSS Framework
+                    -> less CSS
+                    
+->Generally any css framework
+    -> download their css file and map it to your html
+    -> go and copy the nearest code you want.
+    -> Do not alter or change the properties of the codes or css files
+    
+    
+    Option 1: Create individual reference using class or id for each element and control the styling
+    
+    Option 2: Use your parent element style as reference and control its children.
+    
+    
+    
+    Grid
+        4 screen sizes based on width
+            ->tv -> xl
+            -> Laptop -> > 1200px -> lg
+            ->Desktop (CRT Monitor) or iPAD in landscape ->980-1200px -> md
+            ->tablet -> ipad in portait or mobile in landscape -> 767 - 979px ->sm
+            -> mobile -> mobile portrait <767px ->xs
+                        ->iphone 5
+                        ->iphone 6
+        splits your screen into 12 columns
+        every split should be considered as a row
+        
+        The least is considered first
+        
+        container -> align the content center of the page -> decent margin on left and right
+        
+        
